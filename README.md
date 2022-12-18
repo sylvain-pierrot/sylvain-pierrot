@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ...
-- 🔭 I’m currently working on ArchiManager
+- 🌱 I’m currently learning at Polytech Montpellier
+- 🔭 I’m currently working at Atos Montpellier
 
 **languages and tools:**
 
