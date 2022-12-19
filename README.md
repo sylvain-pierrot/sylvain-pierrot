@@ -1,3 +1,5 @@
+![DevOps](/assets/devops.gif)
+
 ### Hi there 👋
 
 - 🌱 I’m currently learning at Polytech Montpellier
@@ -12,4 +14,3 @@
 <code><img height="30" src="/assets/docker.png"></code>
 <code><img height="30" src="/assets/docker-compose.png"></code>
 <code><img height="30" src="/assets/kubernetes.png"></code>
-<code><img height="30" src="/assets/git/git.png"></code>
