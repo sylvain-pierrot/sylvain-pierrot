@@ -1,7 +1,7 @@
 <h1 align="center">Welcome 👋, enjoy my secret garden
 </h1>
 <p align="center">
-    <img src="https://www.nipponconnection.fr/wp-content/uploads/2016/05/lynn-esprits-Inao-studio-ghibli-Japon-jeu-video-1.gif" alt="stduio-ghibli-gif" />
+    <img src="https://www.nipponconnection.fr/wp-content/uploads/2016/05/lynn-esprits-Inao-studio-ghibli-Japon-jeu-video-1.gif" alt="stduio-ghibli-gif" height=300/>
 </p>
 
 # About Me
@@ -12,9 +12,7 @@ An apprentice Cloud/DevOps engineer at Polytech Montpellier. Currently, I am pur
 
 Feel free to reach out to me for any collaborations or discussions related to cloud computing, DevOps, or automation.
 
-# My Projects
-
-|                    | Project                                                                                              |
+|                    | Project(s)                                                                                           |
 | ------------------ | ---------------------------------------------------------------------------------------------------- |
 | :robot:            | **Automating RKE2 Cluster (multi-machines) Setup** with Vagrant and Ansible                          |
 | :books:            | **PolyNotes**: A productivity and organization tool Platform                                         |
