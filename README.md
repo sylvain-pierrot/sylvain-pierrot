@@ -6,7 +6,7 @@
 
 # About Me
 
-Hello! I'm Sylvain, 
+Hello! I'm Sylvain,
 
 An apprentice Cloud/DevOps engineer at Polytech Montpellier. Currently, I am pursuing my internship at Atos. I am enthusiastic about exploring innovative solutions.
 
@@ -14,15 +14,13 @@ Feel free to reach out to me for any collaborations or discussions related to cl
 
 # My Projects
 
-- :robot: **Automating RKE2 Cluster (multi-machines) Setup** with Vagrant and Ansible
-
-- :books: **PolyNotes**: A productivity and organization tool Platform
-
-- :timer_clock: **Block Time Manager**: Time tracking tool, built using MongoDB, for tracking time spent on projects
-
-- :triangular_ruler: **ArchiManager**: Project(s) and client(s) organization tool for architects
-  
-- :takeout_box: **Docker Terminal UI**: Visualization tool for docker
+| Illustration       | Project                                                                                              |
+| ------------------ | ---------------------------------------------------------------------------------------------------- |
+| :robot:            | **Automating RKE2 Cluster (multi-machines) Setup** with Vagrant and Ansible                          |
+| :books:            | **PolyNotes**: A productivity and organization tool Platform                                         |
+| :timer_clock:      | **Block Time Manager**: Time tracking tool, built using MongoDB, for tracking time spent on projects |
+| :triangular_ruler: | **ArchiManager**: Project(s) and client(s) organization tool for architects                          |
+| :takeout_box:      | **Docker Terminal UI**: Visualization tool for docker                                                |
 
 You can explore all my projects and find more information about my work [here](https://cluster-2022-9.dopolytech.fr).
 
@@ -50,7 +48,7 @@ Feel free to check them out and provide feedback!
 
 ## :runner: CI/CD
 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/Argo-009485?style=for-the-badge&logo=Argo&logoColor=white)
 
 ## :gear: Infrastructure
@@ -73,9 +71,9 @@ Feel free to check them out and provide feedback!
 ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
 
 ## :floppy_disk: Database(s)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
 
 # Certification pending....
 
@@ -83,6 +81,6 @@ Feel free to check them out and provide feedback!
 
 # Contact me
 
-📫 How to reach me : 
+📫 How to reach me :
 
 - [Linkdin](https://www.linkedin.com/in/sylvain-pierrot-4a5429170/)
