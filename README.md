@@ -83,5 +83,6 @@ Feel free to check them out and provide feedback!
 
 # Contact me
 
-::
 📫 How to reach me : 
+
+- [Linkdin](https://www.linkedin.com/in/sylvain-pierrot-4a5429170/)
