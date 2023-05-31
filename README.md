@@ -1,31 +1,32 @@
-<h1 align="center">Hi 👋, I'm Sylvain</h1>
+<h1 align="center">Welcome 👋, enjoy my secret garden
+</h1>
 <p align="center">
     <img src="https://www.nipponconnection.fr/wp-content/uploads/2016/05/lynn-esprits-Inao-studio-ghibli-Japon-jeu-video-1.gif" alt="stduio-ghibli-gif" />
 </p>
 
 # About Me
 
-Hello! I'm Sylvain, an apprentice Cloud/DevOps engineer at Polytech Montpellier. Currently, I am pursuing my internship at Atos. With a keen interest in cloud technologies and automation, I strive to learn and apply the latest advancements in these fields. I am enthusiastic about exploring innovative solutions to enhance scalability, reliability, and efficiency in cloud environments.
+Hello! I'm Sylvain, 
+
+An apprentice Cloud/DevOps engineer at Polytech Montpellier. Currently, I am pursuing my internship at Atos. I am enthusiastic about exploring innovative solutions.
 
 Feel free to reach out to me for any collaborations or discussions related to cloud computing, DevOps, or automation.
 
 # My Projects
 
-- :robot: Automating RKE2 Cluster (multi-machines) Setup with Vagrant and Ansible
+- :robot: **Automating RKE2 Cluster (multi-machines) Setup** with Vagrant and Ansible
 
-- :books: PolyNotes: A productivity and organization tool Platform
+- :books: **PolyNotes**: A productivity and organization tool Platform
 
-- :timer_clock: Block Time Manager: Time tracking tool, built using MongoDB, for tracking time spent on projects
+- :timer_clock: **Block Time Manager**: Time tracking tool, built using MongoDB, for tracking time spent on projects
 
-- :triangular_ruler: ArchiManager: Project(s) and client(s) organization tool for architects
+- :triangular_ruler: **ArchiManager**: Project(s) and client(s) organization tool for architects
   
-- :takeout_box: Docker Terminal UI: Visualization tool for docker
+- :takeout_box: *Docker Terminal UI*: Visualization tool for docker
 
 You can explore all my projects and find more information about my work [here](https://cluster-2022-9.dopolytech.fr).
 
 Feel free to check them out and provide feedback!
-
-Let me know if there's anything else I can assist you with.
 
 # Tech Stack
 
@@ -76,11 +77,11 @@ Let me know if there's anything else I can assist you with.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-# :medal_sports: Certification pending....
+# Certification pending....
 
 - **GCP** - Certification Learning Path: **Associate Cloud Engineer**
-- **CKAD** - Certified Kubernetes Application Developer
 
 # Contact me
 
-📫 How to reach me : **pierrot.sylvain14@gmail.com**
+::
+📫 How to reach me : 
