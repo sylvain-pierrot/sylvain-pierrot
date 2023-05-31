@@ -14,7 +14,7 @@ Feel free to reach out to me for any collaborations or discussions related to cl
 
 # My Projects
 
-| Illustration       | Project                                                                                              |
+|                    | Project                                                                                              |
 | ------------------ | ---------------------------------------------------------------------------------------------------- |
 | :robot:            | **Automating RKE2 Cluster (multi-machines) Setup** with Vagrant and Ansible                          |
 | :books:            | **PolyNotes**: A productivity and organization tool Platform                                         |
