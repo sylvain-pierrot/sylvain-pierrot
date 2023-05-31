@@ -12,13 +12,15 @@ An apprentice Cloud/DevOps engineer at Polytech Montpellier. Currently, I am pur
 
 Feel free to reach out to me for any collaborations or discussions related to cloud computing, DevOps, or automation.
 
-|                    | Project(s)                                                                                           |
-| ------------------ | ---------------------------------------------------------------------------------------------------- |
-| :robot:            | **Automating RKE2 Cluster (multi-machines) Setup** with Vagrant and Ansible                          |
-| :books:            | **PolyNotes**: A productivity and organization tool Platform                                         |
-| :timer_clock:      | **Block Time Manager**: Time tracking tool, built using MongoDB, for tracking time spent on projects |
-| :triangular_ruler: | **ArchiManager**: Project(s) and client(s) organization tool for architects                          |
-| :takeout_box:      | **Docker Terminal UI**: Visualization tool for docker                                                |
+# My Projects
+
+| Name                                                       | Description                                                                      |
+| ---------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| :robot: **Automating RKE2 Cluster (multi-machines) Setup** | Automating RKE2 Cluster (multi-machines) Setup with Vagrant and Playbook Ansible |
+| :books: **PolyNotes**                                      | A productivity and organization tool Platform                                    |
+| :timer_clock: **Block Time Manager**                       | Time tracking tool, built using MongoDB, for tracking time spent on projects     |
+| :triangular_ruler: **ArchiManager**                        | Project(s) and client(s) organization tool for architects                        |
+| :takeout_box: **Docker Terminal UI**                       | Visualization tool for docker                                                    |
 
 You can explore all my projects and find more information about my work [here](https://cluster-2022-9.dopolytech.fr).
 
