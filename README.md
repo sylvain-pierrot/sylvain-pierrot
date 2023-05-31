@@ -12,7 +12,7 @@ An apprentice Cloud/DevOps engineer at Polytech Montpellier. Currently, I am pur
 
 Feel free to reach out to me for any collaborations or discussions related to cloud computing, DevOps, or automation.
 
-# My Projects
+# Few Projects
 
 | Name                                                       | Description                                                                      |
 | ---------------------------------------------------------- | -------------------------------------------------------------------------------- |
