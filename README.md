@@ -22,7 +22,7 @@ Feel free to reach out to me for any collaborations or discussions related to cl
 
 - :triangular_ruler: **ArchiManager**: Project(s) and client(s) organization tool for architects
   
-- :takeout_box: *Docker Terminal UI*: Visualization tool for docker
+- :takeout_box: **Docker Terminal UI**: Visualization tool for docker
 
 You can explore all my projects and find more information about my work [here](https://cluster-2022-9.dopolytech.fr).
 
