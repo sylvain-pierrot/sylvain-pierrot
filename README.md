@@ -51,6 +51,7 @@ Feel free to check them out and provide feedback!
 ## :runner: CI/CD
 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![ArgoCD](https://img.shields.io/badge/Argo-009485?style=for-the-badge&logo=Argo&logoColor=white)
 
 ## :gear: Infrastructure
 
@@ -63,7 +64,6 @@ Feel free to check them out and provide feedback!
 ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-009485?style=for-the-badge&logo=Argo&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-090E6F?style=for-the-badge&logo=Helm&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-D70022?style=for-the-badge&logo=min&logoColor=white)
 
