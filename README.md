@@ -14,7 +14,7 @@ I'm currently doing an apprenticeship to become a Cloud/DevOps engineer at Polyt
 
 I love discovering new tools and integrating them into my work. I'm a firm believer in the proverb "A rolling stone gathers no moss".
 
-My values can be represented by this cloud of words:
+My values can be represented by this words cloud :
 
 <p align="center">
     <img src="./images/wordcloud.png" alt="worldcloud" height=300 />
@@ -95,7 +95,7 @@ Feel free to check them out and provide feedback!
 
 # How to reach me
 
-- [📫 Linkdin](https://www.linkedin.com/in/sylvain-pierrot-4a5429170/)
+- [📫 LinkedIn](https://www.linkedin.com/in/sylvain-pierrot-4a5429170/)
 
 ---
 
