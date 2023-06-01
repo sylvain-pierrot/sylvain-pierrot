@@ -6,13 +6,21 @@
 
 # About Me
 
-Hello! I'm Sylvain,
+[![wakatime](https://wakatime.com/badge/user/068a54f9-253e-4c1c-b6bd-8c5eed569758.svg)](https://wakatime.com/@068a54f9-253e-4c1c-b6bd-8c5eed569758)
 
-An apprentice Cloud/DevOps engineer at Polytech Montpellier. Currently, I am pursuing my internship at Atos. I am enthusiastic about exploring innovative solutions.
+Hello ! I'm Sylvain,
 
-Feel free to reach out to me for any collaborations or discussions related to cloud computing, DevOps, or automation.
+I'm currently doing an apprenticeship to become a Cloud/DevOps engineer at Polytech Montpellier. My position at Atos Montpellier is SRE Engineer (Site Reliability Engineering). My passion for IT and the DevOps world continues to grow every day. On my GitHub profile, you can find all the projects I've worked on.
 
-# Few Projects
+I love discovering new tools and integrating them into my work. I'm a firm believer in the proverb "A rolling stone gathers no moss".
+
+My values can be represented by this cloud of words:
+
+<p align="center">
+    <img src="./images/wordcloud.png" alt="worldcloud" height=300 />
+</p>
+
+# Some Projects
 
 | Name                                                       | Description                                                                      |
 | ---------------------------------------------------------- | -------------------------------------------------------------------------------- |
@@ -75,12 +83,16 @@ Feel free to check them out and provide feedback!
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# Certification pending....
+## :computer: OS
 
-- **GCP** - Certification Learning Path: **Associate Cloud Engineer**
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Ubuntu-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
 
-# Contact me
+# More
 
-📫 How to reach me :
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sylvain-pierrot&show_icons=true&locale=en) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sylvain-pierrot) |
+| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 
-- [Linkdin](https://www.linkedin.com/in/sylvain-pierrot-4a5429170/)
+# How to reach me
+
+- [📫 Linkdin](https://www.linkedin.com/in/sylvain-pierrot-4a5429170/)
