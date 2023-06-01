@@ -90,9 +90,13 @@ Feel free to check them out and provide feedback!
 
 # More
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sylvain-pierrot&show_icons=true&locale=en) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sylvain-pierrot) |
-| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sylvain-pierrot) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sylvain-pierrot) |
+| ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
 
 # How to reach me
 
 - [📫 Linkdin](https://www.linkedin.com/in/sylvain-pierrot-4a5429170/)
+
+---
+
+Made with :sparkling_heart: by [Sylvain Pierrot](https://github.com/sylvain-pierrot)
