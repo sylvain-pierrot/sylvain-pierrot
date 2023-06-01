@@ -88,7 +88,7 @@ Feel free to check them out and provide feedback!
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
 
-# More
+# GitHub Stats
 
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sylvain-pierrot) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sylvain-pierrot) |
 | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
